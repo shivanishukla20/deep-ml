@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 5 problems · 0 labs · 0 math
+**6** solved · 6 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-17 | [solution](problems/1107-count-rows-per-group) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-09-17 | [solution](problems/1103-filter-rows-with-where) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-09-17 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-09-17 | [solution](problems/1102-select-specific-columns) |
