@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:14:21.871Z",
+  "generated_at": "2026-09-18T15:26:15.807Z",
   "items": {
     "problem:1102": {
       "kind": "problem",
@@ -91,6 +91,19 @@
       "last_pushed_at": "2026-09-18T15:14:20.804Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:1109": {
+      "kind": "problem",
+      "id": "1109",
+      "title": "Your first JOIN",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1109",
+      "path": "problems/1109-your-first-join",
+      "first_solved_at": "2026-09-18T15:26:14.968Z",
+      "last_pushed_at": "2026-09-18T15:26:14.968Z",
+      "language": "sql",
+      "lines": 5
     }
   }
 }
